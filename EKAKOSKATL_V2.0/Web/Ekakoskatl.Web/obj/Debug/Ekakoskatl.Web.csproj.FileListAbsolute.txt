@@ -1,0 +1,2 @@
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Web\Ekakoskatl.Web\obj\Debug\Ekakoskatl.Web.csprojAssemblyReference.cache
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Web\Ekakoskatl.Web\obj\Debug\Ekakoskatl.Web.csproj.CoreCompileInputs.cache
