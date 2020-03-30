@@ -1,4 +1,4 @@
-namespace BusinessEntities.BasicEntities
+namespace Ekakoskatl.Models
 {
     using System;
     using System.Data.Entity;

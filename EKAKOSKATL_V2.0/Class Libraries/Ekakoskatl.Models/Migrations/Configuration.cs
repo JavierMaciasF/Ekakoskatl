@@ -5,14 +5,14 @@
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<BusinessEntities.BasicEntities.EkakoskatlWebEntity>
+    internal sealed class Configuration : DbMigrationsConfiguration<Ekakoskatl.Models.EkakoskatlWebEntity>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = true;
         }
 
-        protected override void Seed(BusinessEntities.BasicEntities.EkakoskatlWebEntity context)
+        protected override void Seed(Ekakoskatl.Models.EkakoskatlWebEntity context)
         {
             //  This method will be called after migrating to the latest version.
 

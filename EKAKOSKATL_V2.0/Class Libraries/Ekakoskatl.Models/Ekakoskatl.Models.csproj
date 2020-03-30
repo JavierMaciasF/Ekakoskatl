@@ -55,6 +55,10 @@
     <Compile Include="Migrations\202003271935192_InitialCreate.designer.cs">
       <DependentUpon>202003271935192_InitialCreate.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202003272245428_InitialCreate1.cs" />
+    <Compile Include="Migrations\202003272245428_InitialCreate1.designer.cs">
+      <DependentUpon>202003272245428_InitialCreate1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\EkakoskatlWebEntity.cs" />
     <Compile Include="Models\Gender.cs" />
@@ -77,6 +81,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202003271935192_InitialCreate.resx">
       <DependentUpon>202003271935192_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202003272245428_InitialCreate1.resx">
+      <DependentUpon>202003272245428_InitialCreate1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

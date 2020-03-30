@@ -12,3 +12,4 @@ C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libr
 C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Models\obj\Debug\Ekakoskatl.Models.pdb
 C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Models\obj\Debug\Ekakoskatl.Models.Migrations.InitialCreate.resources
 C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Models\obj\Debug\Ekakoskatl.Models.csproj.GenerateResource.cache
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Models\obj\Debug\Ekakoskatl.Models.Migrations.InitialCreate1.resources
