@@ -1,0 +1,10 @@
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.ViewModel\bin\Debug\Ekakoskatl.ViewModel.dll
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.ViewModel\bin\Debug\Ekakoskatl.ViewModel.pdb
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.ViewModel\bin\Debug\Ekakoskatl.Data.dll
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.ViewModel\bin\Debug\Ekakoskatl.Data.pdb
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.ViewModel\bin\Debug\Ekakoskatl.Data.dll.config
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.ViewModel\obj\Debug\Ekakoskatl.ViewModel.csprojAssemblyReference.cache
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.ViewModel\obj\Debug\Ekakoskatl.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.ViewModel\obj\Debug\Ekakoskatl.ViewModel.csproj.CopyComplete
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.ViewModel\obj\Debug\Ekakoskatl.ViewModel.dll
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.ViewModel\obj\Debug\Ekakoskatl.ViewModel.pdb

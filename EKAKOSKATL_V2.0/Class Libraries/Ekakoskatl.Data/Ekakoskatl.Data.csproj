@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Custom Entities\GeneralList.cs" />
     <Compile Include="Entities\Gender.cs" />
     <Compile Include="Entities\MenuItem.cs" />
     <Compile Include="Entities\Permission.cs" />

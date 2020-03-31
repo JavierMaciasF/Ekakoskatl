@@ -53,12 +53,16 @@
   <ItemGroup>
     <Compile Include="Class Context\EkakoskatlWebEntity.cs" />
     <Compile Include="Custom Repository\BaseRepository.cs" />
+    <Compile Include="Custom Repository\DbFactory.cs" />
+    <Compile Include="Custom Repository\Disposable.cs" />
+    <Compile Include="Custom Repository\GeneralList.cs" />
     <Compile Include="Migrations\202003301822473_CreateMigratin.cs" />
     <Compile Include="Migrations\202003301822473_CreateMigratin.designer.cs">
       <DependentUpon>202003301822473_CreateMigratin.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\VideoRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -68,6 +72,10 @@
     <ProjectReference Include="..\Ekakoskatl.Data\Ekakoskatl.Data.csproj">
       <Project>{6102B984-9C36-43E9-BDD5-6D5473799FEC}</Project>
       <Name>Ekakoskatl.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ekakoskatl.ViewModel\Ekakoskatl.ViewModel.csproj">
+      <Project>{b47e3095-b516-494a-8ad0-f4517c9bbeda}</Project>
+      <Name>Ekakoskatl.ViewModel</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

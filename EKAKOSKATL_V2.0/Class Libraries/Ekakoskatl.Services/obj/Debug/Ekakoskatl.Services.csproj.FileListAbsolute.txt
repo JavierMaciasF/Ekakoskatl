@@ -1,6 +1,17 @@
 C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\bin\Debug\Ekakoskatl.Services.dll
 C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\bin\Debug\Ekakoskatl.Services.pdb
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\bin\Debug\Ekakoskatl.Data.dll
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\bin\Debug\Ekakoskatl.Repository.dll
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\bin\Debug\EntityFramework.dll
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\bin\Debug\Ekakoskatl.Data.pdb
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\bin\Debug\Ekakoskatl.Data.dll.config
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\bin\Debug\Ekakoskatl.Repository.pdb
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\bin\Debug\Ekakoskatl.Repository.dll.config
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\bin\Debug\EntityFramework.xml
 C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\obj\Debug\Ekakoskatl.Services.csprojAssemblyReference.cache
 C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\obj\Debug\Ekakoskatl.Services.csproj.CoreCompileInputs.cache
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\obj\Debug\Ekakoskatl.Services.csproj.CopyComplete
 C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\obj\Debug\Ekakoskatl.Services.dll
 C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\obj\Debug\Ekakoskatl.Services.pdb
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\bin\Debug\Ekakoskatl.ViewModel.dll
+C:\Users\g_uni\Documents\Ekakoskatl Projec\Ekakoskatl\EKAKOSKATL_V2.0\Class Libraries\Ekakoskatl.Services\bin\Debug\Ekakoskatl.ViewModel.pdb

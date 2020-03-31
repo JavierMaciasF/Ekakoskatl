@@ -31,6 +31,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Web\Ekakoskatl.Web\Bin\EntityFramework.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -54,6 +58,10 @@
     <ProjectReference Include="..\Ekakoskatl.Repository\Ekakoskatl.Repository.csproj">
       <Project>{E1215D25-2312-4D27-836F-25AFC000517E}</Project>
       <Name>Ekakoskatl.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ekakoskatl.ViewModel\Ekakoskatl.ViewModel.csproj">
+      <Project>{b47e3095-b516-494a-8ad0-f4517c9bbeda}</Project>
+      <Name>Ekakoskatl.ViewModel</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

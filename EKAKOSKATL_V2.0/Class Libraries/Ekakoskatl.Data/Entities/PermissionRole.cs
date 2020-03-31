@@ -6,6 +6,7 @@ namespace Ekakoskatl.Data
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
+    [Table("PermissionRole")]
     public partial class PermissionRole
     {
         [Key]

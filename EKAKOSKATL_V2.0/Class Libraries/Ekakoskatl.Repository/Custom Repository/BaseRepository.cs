@@ -19,11 +19,17 @@ namespace Ekakoskatl.Repository.Custom_Repository
         void SaveChanges();
     }
 
-    public class BaseRepository<T> : IBaseRepository<T> where T: class
+    public abstract class BaseRepository<T> : IBaseRepository<T> where T: class
     {
-        private readonly EkakoskatlWebEntity context;
+        private EkakoskatlWebEntity context;
         private DbSet<T> entities;
         string errorMessage = string.Empty;
+        //private IDbFactory DbFactory { get; set; }
+
+        //protected EkakoskatlWebEntity DbContext
+        //{
+        //    get { return context ?? (context = DbFactory.Init()); }
+        //}
 
         public BaseRepository(EkakoskatlWebEntity context)
         {

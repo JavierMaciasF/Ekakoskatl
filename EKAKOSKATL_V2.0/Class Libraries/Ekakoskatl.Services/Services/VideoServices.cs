@@ -5,6 +5,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Ekakoskatl.ViewModel.Video;
+using System.Data.Entity;
+using Ekakoskatl.Repository.Repository;
 
 namespace Ekakoskatl.Services.Services
 {
@@ -19,34 +22,36 @@ namespace Ekakoskatl.Services.Services
 
     public class VideoServices: IVideoServices
     {
-        private IBaseRepository<Video> videoRepository;
+        private IBaseRepository<Video> baseRepository;
+        private IVideoRepository videoRepository;
         //private IBaseRepository<Gender> genderRepository;
         //private IBaseRepository<VideoGender> videogenderRepository;
 
-        public VideoServices(IBaseRepository<Video> videoRepository/*, IBaseRepository<Gender> genderRepository, IBaseRepository<VideoGender> videogenderRepository*/)
+        public VideoServices(IBaseRepository<Video> baseRepository/*, IBaseRepository<Gender> genderRepository, IBaseRepository<VideoGender> videogenderRepository*/)
         {
-            this.videoRepository = videoRepository;
+            this.baseRepository = baseRepository;
             //this.genderRepository = genderRepository;
             //this.videogenderRepository = videogenderRepository;
         }
 
         public IEnumerable<Video> GetVideos()
         {
-            return videoRepository.GetAll();
+            return baseRepository.GetAll();
         }
 
         public Video GetByID(Guid id)
         {
-            return videoRepository.GetByID(id);
+            return baseRepository.GetByID(id);
         }
 
         public void InsertVideo(Video video)
         {
-            videoRepository.Insert(video);
+            baseRepository.Insert(video);
         }
+
         public void UpdateVideo(Video video)
         {
-            videoRepository.Update(video);
+            baseRepository.Update(video);
         }
 
         public void DeleteVideo(Guid id)
@@ -54,8 +59,24 @@ namespace Ekakoskatl.Services.Services
             //UserProfile userProfile = userProfileRepository.Get(id);
             //userProfileRepository.Remove(userProfile);
             //User user = GetUser(id);
-            //videoRepository.Remove(user);
-            //videoRepository.SaveChanges();
+            //baseRepository.Remove(user);
+            //baseRepository.SaveChanges();
         }
+
+        public PanelVideoViewModel PanelVideo(/*PanelVideoViewModel vm*/)
+        {
+            var _videos = videoRepository.GetVideoList().ToList();
+            //foreach (var item in _videos)
+            //{
+            //    var query = from vg in item.VideoGenders
+            //                join g in item.Gender on person equals pet.Owner
+            //                select new { OwnerName = person.FirstName, PetName = pet.Name };
+            //    item.VideoGenders.Where(x => x.VideoID == item.VideoID);
+            //    //vm.m_ListVideo.Add(item);
+            //}
+            //vm.m_ListVideo = videoRepository.GetVideoList().ToList();
+            return vm;
+        }
+
     }
 }

@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ekakoskatl.Services", "Clas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ekakoskatl.Web", "Web\Ekakoskatl.Web\Ekakoskatl.Web.csproj", "{F4355283-ABAA-4E78-9BBE-7877A0396524}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ekakoskatl.ViewModel", "Class Libraries\Ekakoskatl.ViewModel\Ekakoskatl.ViewModel.csproj", "{B47E3095-B516-494A-8AD0-F4517C9BBEDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{F4355283-ABAA-4E78-9BBE-7877A0396524}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4355283-ABAA-4E78-9BBE-7877A0396524}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4355283-ABAA-4E78-9BBE-7877A0396524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B47E3095-B516-494A-8AD0-F4517C9BBEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47E3095-B516-494A-8AD0-F4517C9BBEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47E3095-B516-494A-8AD0-F4517C9BBEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47E3095-B516-494A-8AD0-F4517C9BBEDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{E1215D25-2312-4D27-836F-25AFC000517E} = {3B72A76C-C9B4-446C-8106-65549FFA8332}
 		{80F1B2FD-1553-455C-BBA8-B5598C17AB32} = {3B72A76C-C9B4-446C-8106-65549FFA8332}
 		{F4355283-ABAA-4E78-9BBE-7877A0396524} = {2737484D-B141-47CD-A20A-7E12122E0ED0}
+		{B47E3095-B516-494A-8AD0-F4517C9BBEDA} = {3B72A76C-C9B4-446C-8106-65549FFA8332}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F5F079F-6801-4B9F-8252-587C625B0BBA}
